@@ -37,8 +37,8 @@ namespace Hash1
                 Console.WriteLine("\n\n{0}\n\n", baner.HomeBaner());
 
                 Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.WriteLine("  1  ===>  Encryption");
-                Console.WriteLine("\n  2  ===>  Crack the encryption");
+                Console.WriteLine("  1  ===>  Hashing");
+                Console.WriteLine("\n  2  ===>  Crack the Hash");
                 Console.WriteLine("\n  3  ===>  Hash Analysis");
                 Console.ForegroundColor = ConsoleColor.Cyan;
                 Console.Write("\n  Choose one of the items ==> ");
